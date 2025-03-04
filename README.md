@@ -1,1 +1,3 @@
 # Tissue-SDG
+Title: Dynamic Adaptive Data Augmentation and Multi-Scale Contrastive Learning for Generalizable Tissue Semantic Segmentation
+The code is coming soon...
